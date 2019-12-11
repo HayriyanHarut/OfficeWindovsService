@@ -1,0 +1,17 @@
+.entaMenu{
+	width: 15%;
+	display: inline-block;
+}
+.row{
+	display: inline-block;
+	width: 84%;
+}
+.carousel{
+	display: inline-block;
+	width: 84%;
+	height: 50%;
+}
+.dropdown-content {   
+	left: -140px;
+    top: 65px;
+}
